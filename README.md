@@ -25,3 +25,5 @@ Här samlar jag länkar till gratis verktyg för att bygga min Android-app.
 * **Coolors**: https://coolors.co/
   * *Hjälp:* Skapar färgpaletter som passar ihop automatiskt.# mina-app-resurser
 first try
+
+<img width="1908" height="882" alt="image" src="https://github.com/user-attachments/assets/4289b7b6-edb5-4400-93bc-20cda16b2376" />
